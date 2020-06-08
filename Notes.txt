@@ -1,0 +1,19 @@
+ mondb connection string - mongodb+srv://dbuser:<dbuser>@cluster0-eqyyv.mongodb.net/test?retryWrites=true&w=majority
+
+
+
+execution error while using ng commands for angular:
+solution refer the below link
+	http://www.techtutorhub.com/article/Getting-ng-File-AppData-Roaming-npm-ng-ps1-cannot-be-loaded-The-file-npm-ng-ps1-is-not-digitally-signed-Angular-Error-when-running-commands/62
+
+path - C:\Users\srini\AppData\Roaming\npm
+
+
+vscode shortcuts:
+ctrl + k + c - To comment the line in html.
+ctrl + p - To open the files quickly
+ctrl + c - to bringup the path n terminal
+
+
+
+User.findone is not a function - change user declaration from const to var in api.js
